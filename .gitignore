@@ -2,3 +2,6 @@ RedPill_board/RedPill_board-backups
 RedPill_board/fp-info-cache
 RedPill_board/fp-lib-table
 
+/RedPill_example/EWARM/settings
+/RedPill_example/EWARM/RedPill_example
+/RedPill_example/EWARM/RedPill_example.dep
